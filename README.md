@@ -12,4 +12,6 @@
 - [Transazioni, Recovery, Concorrenza](6-7-8.md)
 - [DDB, NoSQL](9-11.md)
 - [Data Warehouse](13.md)
+
+### Altro
 - [XML, Semantica](10-12.md)
